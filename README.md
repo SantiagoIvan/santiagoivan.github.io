@@ -1,3 +1,3 @@
-## You can see all projects in action here
+## 15 proyectos para practicas Js
 
 [Projects](https://www.vanillajavascriptprojects.com/)
