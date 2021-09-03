@@ -1,1 +1,1 @@
-## 15 proyectos para practicas Js
+## 15 proyectos para practicar Js
