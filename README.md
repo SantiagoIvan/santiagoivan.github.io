@@ -1,4 +1,4 @@
-## 15 proyectos para practicar Js
+## Proyectos para practicar Js
 
 [1 - Color-flipper](https://santiagoivan.github.io/01-color-flipper)
 
@@ -6,4 +6,4 @@
 
 [3 - Reviews](https://santiagoivan.github.io/03-reviews)
 
-[4 - Blackjack Game](https://santiagoivan.github.io/04 - Blackjack game)
+[4 - Blackjack Game](https://santiagoivan.github.io/04-Blackjackgame)
