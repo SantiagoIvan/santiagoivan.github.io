@@ -1,3 +1,5 @@
-## 15 proyectos para practicas Js
+## 15 proyectos para practicar Js
 
-[Projects](https://www.vanillajavascriptprojects.com/)
+[1 - Color-flipper](https://santiagoivan.github.io/01-color-flipper/setup)
+
+[2 - Counter](https://santiagoivan.github.io/02-counter/setup)
