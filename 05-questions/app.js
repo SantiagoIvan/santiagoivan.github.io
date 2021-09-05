@@ -11,8 +11,8 @@ const allQuestions = selectAll('.question')
 allQuestions.forEach( question => {
     const btn = question.querySelector(".question-btn")
     btn.addEventListener("click", () => {
-        closeOtherQuestions()
         question.classList.toggle('show-text')
+        closeOtherQuestions(question)
     })
 })
 
@@ -20,12 +20,12 @@ allQuestions.forEach( question => {
 // const allBtns = selectAll('.question-btn')
 // allBtns.forEach( btn => {
 //     btn.addEventListener("click", (e) => {
-//         closeOtherQuestions()
+//         closeOtherQuestions(question)
 //         const question = e.currentTarget.parentElement.parentElement
 //         question.classList.toggle('show-text')
 //     })
 // })
 
-function closeOtherQuestions(){
-    allQuestions.forEach( question => question.classList.remove('show-text'))
+function closeOtherQuestions(target){
+    allQuestions.forEach( question => {if (question!== target) question.classList.remove('show-text')})
 }
