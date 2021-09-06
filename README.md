@@ -9,3 +9,5 @@
 [4 - Blackjack Game](https://santiagoivan.github.io/04-Blackjackgame)
 
 [5 - Questions](https://santiagoivan.github.io/05-questions)
+
+[6 - Menu](https://santiagoivan.github.io/06-menu/index.html)
