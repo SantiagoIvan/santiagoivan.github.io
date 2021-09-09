@@ -6,7 +6,7 @@
 
 ### [3 - Reviews]((https://santiagoivan.github.io/03-reviews)
 
-### [4 - Blackjack game]((https://santiagoivan.github.io/04-blackjackgame)
+### [4 - Blackjack game]((https://santiagoivan.github.io/04-Blackjackgame)
 
 ### [5 - Questions]((https://santiagoivan.github.io/05-questions)
 
